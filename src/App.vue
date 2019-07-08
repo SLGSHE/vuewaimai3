@@ -11,7 +11,7 @@
     name: "App",
     data () {
       return {
-        msg: 'App Component'
+        msg: 'App Component' 
       }
     },
 
